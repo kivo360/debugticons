@@ -1,1 +1,1 @@
-# {{cookiecutter.repository}} tests
+# debugticons tests
